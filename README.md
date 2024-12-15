@@ -25,7 +25,7 @@ frontend has been developed with the [Alpine.js JavaScript framework][alpinejs].
 
 ## Requirements
 
-To run all the application, you will need:
+To run the application, you will need:
 
 * [PostgreSQL][postgresql] 13-17 and a database with the [uuid-ossp
   extension][postgresql-uuid-ossp]
